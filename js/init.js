@@ -176,7 +176,7 @@
       return false;
    });
 
-
+  $('#certification').DataTable();
 });
 
 
